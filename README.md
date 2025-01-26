@@ -19,4 +19,16 @@ Change colors to make the fractals look however you like.
 
 Everything runs smoothly thanks to C and MiniLibX.
 
+Mandelbrot : -----------------------------------------------------------
+
 ![Screenshot from 2025-01-26 18-05-43](https://github.com/user-attachments/assets/be8787ab-f3ab-4b4c-bd6d-292e0de9e636)
+
+
+julia (cst = (0.4 + i * 0.4)):-----------------------------------------------------------
+
+![Screenshot from 2025-01-26 19-01-29](https://github.com/user-attachments/assets/07d31065-ca85-4584-aa2f-5c51d6c1ce67)
+
+Tricorn : -----------------------------------------------------------
+
+![Screenshot from 2025-01-26 19-01-51](https://github.com/user-attachments/assets/367a234c-6562-423c-87e0-302cc0fd244b)
+
