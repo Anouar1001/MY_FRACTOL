@@ -37,7 +37,7 @@ how to use :
             after cloning :
             ``` $>make
                 $>./fractol mandelbrot
-                $>./fractol julia x, y  (change x , y with the any number u want)
+                $>./fractol julia x, y  (replace x , y with any number u want)
                 $>./fractol tricorn
             ```
 
